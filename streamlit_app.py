@@ -1,6 +1,5 @@
 import streamlit as st
 import datetime as dt
-from googletrans import Translator
 
 def change(txt):
     encrypt = {'A':'.-', 'B':'-...', 'C':'-.-.',
